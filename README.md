@@ -5,4 +5,4 @@ git clone https://github.com/esfelurm/CODE_FILTERI.git
 
 cd CODE_FILTERI
 
-python code_Filteri.py
+python Filtering.py
